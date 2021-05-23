@@ -4,17 +4,26 @@ our project involves developing a language model that predicts the next word of 
 
 To design a language model we follow the set of steps :
 
-Step 1: Tokenizing the words in the text.
-Step 2: Preprocessing the tokenized words.
-Step 3: Give appropriate integer hash value to each word in the text for
+
+1. Tokenizing the words in the text.
+
+2. Preprocessing the tokenized words.
+
+3. Give appropriate integer hash value to each word in the text for
 easier processing.
-Step 4: Make a 3-gram array of the integer hash value to train the data.
-Step 5: Splitting the 3-gram into input and output.
-Step 6: Selecting a suitable language model and architecture by selecting the
+
+4. Make a 3-gram array of the integer hash value to train the data.
+
+5. Splitting the 3-gram into input and output.
+
+6. Selecting a suitable language model and architecture by selecting the
 model parameters. The model used here is LSTM network.
-Step 7: Train the LSTM network using the data from step 5.
-Step 8: Input a string and expect the output to be possible next word in the
+
+7. Train the LSTM network using the data from step 5.
+
+8. Input a string and expect the output to be possible next word in the
 string.
+
 
 <h3> Software requirements </h3>
 
