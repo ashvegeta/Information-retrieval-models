@@ -16,7 +16,7 @@ Step 7: Train the LSTM network using the data from step 5.
 Step 8: Input a string and expect the output to be possible next word in the
 string.
 
-#Software requirements
+<h3> Software requirements </h3>
 
 1. Python 3.7.6 or any other version compatible with keras library/
 tensorflow
@@ -25,7 +25,7 @@ tensorflow
 4. Numpy library
 5. Jupyter notebook / suitable IDE
 
-#hardware requirements
+<h3> hardware requirements </h3>
 
 1. Central Processing Unit (CPU) — Intel Core i5 6th Generation processor
 or higher. An AMD equivalent processor will also be optimal.
@@ -33,7 +33,7 @@ or higher. An AMD equivalent processor will also be optimal.
 3. Operating System — Ubuntu or Microsoft Windows 10.
 4. NVIDIA GPU to execute keras library.
 
-#runtime
+<h3> runtime </h3>
 
 1. To run the .ipynb file make sure the software and hardware requirements in fulfilled and run each cell individually.
 2. change the model parameters depending on the size of the dataset.
