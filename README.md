@@ -46,3 +46,6 @@ or higher. An AMD equivalent processor will also be optimal.
 
 1. To run the .ipynb file make sure the software and hardware requirements in fulfilled and run each cell individually.
 2. change the model parameters depending on the size of the dataset.
+
+
+https://github.com/ashvegeta/Information-retrieval-models/blob/main/word_model.ipynb
